@@ -1,0 +1,59 @@
+{"relations":[
+  {
+    "RelID": 1,
+    "RelStartID": 1,
+    "RelEndID": 2,
+    "RelType": "HTTP"
+  },
+  {
+    "RelID": 2,
+    "RelStartID": 2,
+    "RelEndID": 3,
+    "RelType": "HTTP"
+  },
+  {
+    "RelID": 3,
+    "RelStartID": 1,
+    "RelEndID": 3,
+    "RelType": "HTTPS"
+  },
+  {
+    "RelID": 4,
+    "RelStartID": 3,
+    "RelEndID": 4,
+    "RelType": "HTTPS"
+  },
+  {
+    "RelID": 5,
+    "RelStartID": 3,
+    "RelEndID": 5,
+    "RelType": "HTTPS"
+  },
+  {
+    "RelID": 6,
+    "RelStartID": 4,
+    "RelEndID": 5,
+    "RelType": "HTTPS"
+  }
+  ,
+  {
+    "RelID": 7,
+    "RelStartID": 2,
+    "RelEndID": 6,
+    "RelType": "HTTPS"
+  },
+  {
+    "RelID": 8,
+    "RelStartID": 2,
+    "RelEndID": 7,
+    "RelType": "HTTPS"
+  },
+  {
+    "RelID": 9,
+    "RelStartID": 6,
+    "RelEndID": 7,
+    "RelType": "HTTPS"
+  }
+]
+
+}

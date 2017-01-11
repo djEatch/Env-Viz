@@ -1,0 +1,46 @@
+{"entities":[
+  {
+    "EntID": 1,
+    "EntType": "Server",
+    "EntSubType": "BRG",
+    "EntName": "BridgeServer"
+  },
+  {
+    "EntID": 2,
+    "EntType": "Server",
+    "EntSubType": "UIS",
+    "EntName": "UISServer"
+  },
+  {
+    "EntID": 3,
+    "EntType": "Server",
+    "EntSubType": "EAS",
+    "EntName": "EASServer1"
+  },
+  {
+    "EntID": 4,
+    "EntType": "Server",
+    "EntSubType": "EAS",
+    "EntName": "EASServer2"
+  },
+  {
+    "EntID": 5,
+    "EntType": "Server",
+    "EntSubType": "EAS",
+    "EntName": "EASServer3"
+  },
+  {
+    "EntID": 6,
+    "EntType": "Server",
+    "EntSubType": "UIS",
+    "EntName": "UISServer2"
+  }
+  ,
+  {
+    "EntID": 7,
+    "EntType": "Server",
+    "EntSubType": "UIS",
+    "EntName": "UISServer3"
+  }
+]
+}
